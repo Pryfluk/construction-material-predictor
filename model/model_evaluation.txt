@@ -1,0 +1,11 @@
+Model Evaluation Results
+------------------------
+MAE  : 3.41
+MSE  : 19.56
+RMSE : 4.42
+R²   : 0.943
+
+Cross-validation (R²)
+Scores  : [0.93091088 0.93163632 0.92279911 0.94500934 0.93011144]
+Mean R² : 0.932
+Std     : 0.007
